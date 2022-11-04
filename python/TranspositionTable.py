@@ -1,0 +1,3 @@
+
+class TranspositionTable:
+    pass
